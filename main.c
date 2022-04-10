@@ -4,7 +4,7 @@
 
 #define ZERO 0
 
-int arr[9999];
+int arr[10000];
 
 void randomArraySorted();            // sorted array without duplications
 int findMe();                        // return existing number from array
